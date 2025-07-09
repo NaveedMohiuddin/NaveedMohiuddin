@@ -1,7 +1,7 @@
 
 # Hi, I'm Naveed Mohiuddin! 👋  
 
-🚀 **Aspiring Software Engineer | Full-Stack & Cloud Enthusiast | Ex-GEICO (AIS)**  
+🚀 **Aspiring Software Engineer | Data & Cloud Enthusiast | Ex-GEICO (AIS)**  
 
 I’m a **Computer Science Master's student at Illinois Institute of Technology (IIT), Chicago**, passionate about building **scalable and efficient software solutions**. I specialize in **Full-Stack Development, Cloud Computing, and Machine Learning**, with hands-on experience in **React.js, Node.js, Python, Java, and Azure**.  
 
@@ -57,4 +57,4 @@ I’m a **Computer Science Master's student at Illinois Institute of Technology 
 
 ---
 
-🚀 **Open to full-time opportunities!** If you're hiring for **Software Engineer / Full-Stack** roles, let's talk! 😊  
+🚀 **Open to full-time opportunities!** If you're hiring for **Software Engineer / Cloud / Data ** roles, let's talk! 😊  
