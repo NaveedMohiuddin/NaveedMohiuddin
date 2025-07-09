@@ -23,6 +23,12 @@ I’m a **Computer Science Master's student at Illinois Institute of Technology 
 
 ## 📌 Featured Projects  
 
+### 🔹 Big Data & Cloud  
+- 🔥 **[AWS Multi-AZ-Disaster-Recovery](https://github.com/NaveedMohiuddin/Multi-AZ-Disaster-Recovery)** – Production-grade e-commerce order system with Multi-AZ disaster recovery, automated failover  
+  *Tech:* `Multi-AZ RDS`, `Custom VPC`, ` EC2`, `Public and Private Subnets`, `Nat-Gateway`, `Internet-Gateway`
+- 🔥 **[Spark & Big Data Project](https://github.com/NaveedMohiuddin/bigdata-spark-dataproc)** – Big Data Project using Apache Spark on GCP Dataproc  
+  *Tech:* `Scala`, `Apache Spark`, `HDFS`
+
 ### 🔹 AI & Web Development  
 - 🚀 **[ShortNt](https://github.com/NaveedMohiuddin/ShortNt)** – AI-powered summarization tool  
   *Tech:* `React.js`, `Django`, `Hugging Face`  
@@ -40,11 +46,7 @@ I’m a **Computer Science Master's student at Illinois Institute of Technology 
   *Tech:* `Python`, `NumPy`, `Scikit-learn`  
 - 📉 **[ElasticNet Regression](https://github.com/NaveedMohiuddin/ML_Project1)** – Custom ML model implementation  
   *Tech:* `Python`, `Gradient Descent`  
-
-### 🔹 Big Data & Cloud  
-- 🔥 **[Spark & Big Data Project](https://github.com/NaveedMohiuddin/bigdata-spark-dataproc)** – Big Data Assignment using Apache Spark on GCP Dataproc  
-  *Tech:* `Scala`, `Apache Spark`, `HDFS`  
-
+  
 ---
 
 ## 📬 Let's Connect!  
