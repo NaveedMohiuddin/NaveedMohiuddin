@@ -6,7 +6,7 @@
 I’m a **Computer Science Master's student at Illinois Institute of Technology (IIT), Chicago**, passionate about building **scalable and efficient software solutions**. I specialize in **Full-Stack Development, Cloud Computing, and Machine Learning**, with hands-on experience in **React.js, Node.js, Python, Java, and Azure**.  
 
 🔹 **Previously:** Software Engineer at **GEICO (via AIS)**, where I worked on **data pipelines, automation, and cloud solutions**.  
-🔹 **Currently:** Seeking **Full-Stack or Software Engineering** roles to create impactful solutions.  
+🔹 **Currently:** Seeking **Cloud or Software Engineering** roles to create impactful solutions.  
 
 ---
 
