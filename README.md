@@ -26,6 +26,7 @@ I’m a **Computer Science Master's student at Illinois Institute of Technology 
 ### 🔹 Big Data & Cloud  
 - 🔥 **[AWS Multi-AZ-Disaster-Recovery](https://github.com/NaveedMohiuddin/Multi-AZ-Disaster-Recovery)** – Production-grade e-commerce order system with Multi-AZ disaster recovery, automated failover  
   *Tech:* `Multi-AZ RDS`, `Custom VPC`, ` EC2`, `Public and Private Subnets`, `Nat-Gateway`, `Internet-Gateway`
+- 🔥 **[ETL Weather Project using Airflow Orchestration](https://github.com/NaveedMohiuddin/ETL_Airflow)** – Project demonstrating a complete ETL (Extract, Transform, Load) pipeline using Apache Airflow to fetch, process, and store weather data from the Open-Meteo API into a PostgreSQL database.* `Apache Airflow`, `ETL Pipeline Design`, ` Data Engineering`, `Docker`, `PostgreSQL`, `Python`
 - 🔥 **[Spark & Big Data Project](https://github.com/NaveedMohiuddin/bigdata-spark-dataproc)** – Big Data Project using Apache Spark on GCP Dataproc  
   *Tech:* `Scala`, `Apache Spark`, `HDFS`
 
